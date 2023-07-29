@@ -19,7 +19,10 @@ export const Contact = () => {
 
 
   return (
-    <Section className={styles.contact}>
+    < div style={{
+      paddingLeft: '25%',
+      paddingTop: '15%'
+    }}>
       <Meta
         title="Contact"
         description="Send me a message if you’re interested in discussing a project or if you just want to say hi"
@@ -52,7 +55,7 @@ export const Contact = () => {
 
       </div>
       <Footer className={styles.footer} />
-    </Section>
+    </div >
   );
 };
 
