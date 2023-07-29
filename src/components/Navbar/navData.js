@@ -1,5 +1,5 @@
 export const navLinks = [
-     
+
   {
     label: 'About',
     pathname: '/about',
@@ -20,13 +20,19 @@ export const navLinks = [
     label: 'Contact',
     pathname: '/contact',
   },
+
 ];
 
 export const socialLinks = [
-     
+
   {
-    label: 'Github',
-    url: 'https://github.com/',
+    label: 'Linkedin',
+    url: 'https://www.linkedin.com/in/nitin-sharma-4198b121b/',
     icon: 'github',
+  },
+  {
+    label: 'Resume',
+    url: 'https://www.linkedin.com/in/nitin-sharma-4198b121b/',
+    icon: 'download',
   },
 ];

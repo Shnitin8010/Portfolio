@@ -190,11 +190,10 @@ export const Navbar = () => {
               </RouterLink>
             ))}
             <NavbarIcons />
-            <ThemeToggle isMobile />
+
           </nav>
         )}
       </Transition>
-      {!isMobile && <ThemeToggle data-navbar-item />}
     </header>
   );
 };
