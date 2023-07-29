@@ -32,7 +32,7 @@ export const socialLinks = [
   },
   {
     label: 'Resume',
-    url: 'https://www.linkedin.com/in/nitin-sharma-4198b121b/',
+    url: '/Resume-Nitin-Sharma.pdf',
     icon: 'twitter',
   },
 ];
