@@ -33,6 +33,6 @@ export const socialLinks = [
   {
     label: 'Resume',
     url: 'https://www.linkedin.com/in/nitin-sharma-4198b121b/',
-    icon: 'download',
+    icon: 'twitter',
   },
 ];
