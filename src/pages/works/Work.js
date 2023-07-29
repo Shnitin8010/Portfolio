@@ -13,7 +13,7 @@ export const Work = () => {
 
 
     return (
-        <Section  >
+        <div style={{ paddingLeft: '13%' }}  >
             <Meta
                 title="Work"
                 description="what I am doing for all.."
@@ -525,7 +525,7 @@ export const Work = () => {
 
 
             <Footer />
-        </Section >
+        </div >
     );
 };
 

@@ -13,14 +13,14 @@ export const About = () => {
 
 
     return (
-        <Section >
+        <div style={{ paddingLeft: '12%' }}>
             <Meta
                 title="About"
                 description="About me and my work all is their."
             />
             <section class="about-area">
                 <div class="container">
-                    <div class="d-flex about-me-wrap align-items-start gap-24">
+                    <div class="d-flex about-me-wrap align-items-start  ">
                         <div data-aos="zoom-in">
                             <div class="about-image-box shadow-box">
                                 <img src="/images/bg1.png" alt="BG" class="bg-img" />
@@ -97,7 +97,7 @@ export const About = () => {
                     </div>
 
                     <div class="row mt-24">
-                        <div class="col-md-12">
+                        <div class="col-md-12 col-sm-12">
                             <div class="d-flex profile-contact-credentials-wrap gap-24">
 
 
@@ -124,7 +124,7 @@ export const About = () => {
                 </div>
             </section>
             <Footer />
-        </Section>
+        </div>
     );
 };
 
