@@ -206,6 +206,20 @@ export const Work = () => {
                                     <div class="d-flex align-items-center justify-content-between">
                                         <div class="project-info">
                                             <p>SHOPIFY</p>
+                                            <h1>maxis.org.uk</h1>
+                                        </div>
+                                        <a href="https://maxis.org.uk/" class="project-btn" target="_blank">
+                                            <img src=" /images/icon.svg" alt="Button" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div data-aos="zoom-in">
+                                <div class="project-item p-4 shadow-box">
+
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <div class="project-info">
+                                            <p>SHOPIFY</p>
                                             <h1>manonsimard-boutique.com</h1>
                                         </div>
                                         <a href="https://www.manonsimard-boutique.com/" class="project-btn" target="_blank">
@@ -494,32 +508,48 @@ export const Work = () => {
                                                 <p>WORDPRESS</p>
                                                 <h1>vitherbs.com</h1>
                                             </div>
-                                            <a href="https://vitherbs.com.com/" class="project-btn" target="_blank">
+                                            <a href="https://vitherbs.com/" class="project-btn" target="_blank">
                                                 <img src=" /images/icon.svg" alt="Button" />
                                             </a>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div data-aos="zoom-in" class="flex-1">
-                                    <div class="project-item shadow-box">
+                                <div class="d-grid align-items-start gap-24">
+                                    <div data-aos="zoom-in" class="flex-1">
+                                        <div class="project-item shadow-box">
 
-                                        <div class="d-flex align-items-center p-2 justify-content-between">
-                                            <div class="project-info">
-                                                <p>WORDPRESS</p>
-                                                <h1>Many More</h1>
+                                            <div class="d-flex align-items-center p-2 justify-content-between">
+                                                <div class="project-info">
+                                                    <p>WORDPRESS</p>
+                                                    <h1>renewplusskinhairlaser.com/.com</h1>
+                                                </div>
+                                                <a href="https://renewplusskinhairlaser.com/" class="project-btn" target="_blank">
+                                                    <img src=" /images/icon.svg" alt="Button" />
+                                                </a>
                                             </div>
-                                            <img src=" /images/icon.svg" alt="Button" />
+                                        </div>
+                                    </div>
 
+                                    <div data-aos="zoom-in" class="flex-1">
+                                        <div class="project-item shadow-box">
+
+                                            <div class="d-flex align-items-center p-2 justify-content-between">
+                                                <div class="project-info">
+                                                    <p>WORDPRESS</p>
+                                                    <h1>Many More</h1>
+                                                </div>
+                                                <img src=" /images/icon.svg" alt="Button" />
+
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
 
                     </div>
-
-                </div>
             </section>
 
 
