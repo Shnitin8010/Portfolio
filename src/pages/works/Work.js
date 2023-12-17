@@ -228,6 +228,66 @@ export const Work = () => {
                                     </div>
                                 </div>
                             </div>
+                     <div data-aos="zoom-in">
+                                <div class="project-item p-4 shadow-box">
+
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <div class="project-info">
+                                            <p>SHOPIFY</p>
+                                            <h1>maxis.org.uk</h1>
+                                        </div>
+                                        <a href="https://maxis.org.uk/" class="project-btn" target="_blank">
+                                            <img src=" /images/icon.svg" alt="Button" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                    <div data-aos="zoom-in">
+                                <div class="project-item p-4 shadow-box">
+
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <div class="project-info">
+                                            <p>SHOPIFY</p>
+                                            <h1>herronapparel.com    </h1>
+                                        </div>
+                                        <a href="https://herronapparel.com/" class="project-btn" target="_blank">
+                                            <img src=" /images/icon.svg" alt="Button" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                    <div data-aos="zoom-in">
+                                <div class="project-item p-4 shadow-box">
+
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <div class="project-info">
+                                            <p>SHOPIFY</p>
+                                            <h1>paolopanini.com</h1>
+                                        </div>
+                                        <a href="https://paolopanini.com/" class="project-btn" target="_blank">
+                                            <img src=" /images/icon.svg" alt="Button" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                    <div data-aos="zoom-in">
+                                <div class="project-item p-4 shadow-box">
+
+                                    <div class="d-flex align-items-center justify-content-between">
+                                        <div class="project-info">
+                                            <p>SHOPIFY</p>
+                                            <h1>starlitmotors.co.uk</h1>
+                                        </div>
+                                        <a href="https://starlitmotors.co.uk/" class="project-btn" target="_blank">
+                                            <img src=" /images/icon.svg" alt="Button" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
 
                             <div data-aos="zoom-in">
                                 <div class="project-item p-4 shadow-box">
@@ -522,7 +582,7 @@ export const Work = () => {
                                             <div class="d-flex align-items-center p-2 justify-content-between">
                                                 <div class="project-info">
                                                     <p>WORDPRESS</p>
-                                                    <h1>renewplusskinhairlaser.com/.com</h1>
+                                                    <h1>renewplusskinhairlaser.com</h1>
                                                 </div>
                                                 <a href="https://renewplusskinhairlaser.com/" class="project-btn" target="_blank">
                                                     <img src=" /images/icon.svg" alt="Button" />
