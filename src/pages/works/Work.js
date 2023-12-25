@@ -408,7 +408,7 @@ export const Work = () => {
                                     </div>
                                 </div>
                                 
-
+</div>
                             <div class="d-grid align-items-start gap-24">
 
                                 <div data-aos="zoom-in" class="flex-1">
@@ -538,4 +538,3 @@ export const Work = () => {
         </div >
     );
 };
-
