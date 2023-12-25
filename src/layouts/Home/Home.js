@@ -167,7 +167,7 @@ export const Home = () => {
                                 <img src=" images/bg1.png" alt="BG" class="bg-img" />
                                 <div class="clients d-flex align-items-start gap-24 justify-content-center">
                                     <div class="client-item">
-                                        <h1>1.5 +</h1>
+                                        <h1>2.5 +</h1>
                                         <p>Years <br />Experience</p>
                                     </div>
 
