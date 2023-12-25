@@ -131,20 +131,7 @@ export const Work = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div data-aos="zoom-in">
-                                <div class="project-item p-4 shadow-box">
-
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="project-info">
-                                            <p>SHOPIFY</p>
-                                            <h1>elitekeepershop.com</h1>
-                                        </div>
-                                        <a href="https://www.elitekeepershop.com/" class="project-btn" target="_blank">
-                                            <img src=" /images/icon.svg" alt="Button" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
+                             
                             <div data-aos="zoom-in">
                                 <div class="project-item p-4 shadow-box">
 
@@ -173,20 +160,7 @@ export const Work = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div data-aos="zoom-in">
-                                <div class="project-item p-4 shadow-box">
-
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="project-info">
-                                            <p>SHOPIFY</p>
-                                            <h1>maxis.org.uk</h1>
-                                        </div>
-                                        <a href="https://maxis.org.uk/" class="project-btn" target="_blank">
-                                            <img src=" /images/icon.svg" alt="Button" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
+                            
                             <div data-aos="zoom-in">
                                 <div class="project-item p-4 shadow-box">
 
