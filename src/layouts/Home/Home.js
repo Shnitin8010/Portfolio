@@ -74,7 +74,7 @@ export const Home = () => {
                                 <div class="infos">
                                     <h4>A WEB & SHOPIFY DEV.</h4>
                                     <h1>Nitin Sharma</h1>
-                                    <p>Just Loving to work as Designer cum Developer.</p>
+                                    <p>Just Loving to work as Developer.</p>
                                     <a href="/about" class="about-btn">
                                         <img src=" images/icon.svg" alt="Button" />
                                     </a>
@@ -93,21 +93,19 @@ export const Home = () => {
                                                     <img src=" images/star1.svg" alt="Star" />
                                                     <b>italiving.de</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>ca.goodgoodbrand.com</b>
+                                                     <b>rousefit.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>rousefit.com</b>
+                                                     <b>manonsimard-boutique.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>tellius.com </b>
+                    <b>herronapparel.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>manonsimard-boutique.com</b>
+                    <b>manonsimard-boutique.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>classe365.com</b>
+                    <b>paolopanini.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>elitesport.soccer</b>
+                    <b>starlitmotors.co.uk</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>elitekeepershop.com</b>
-                                                    <img src=" images/star1.svg" alt="Star" />
-
+                                                    
 
                                                 </span>
                                             </div>
