@@ -72,21 +72,7 @@ export const Work = () => {
                             </div>
 
 
-                            <div data-aos="zoom-in">
-                                <div class="project-item p-4 shadow-box">
-
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="project-info">
-                                            <p> SHOPIFY</p>
-                                            <h1>ca.goodgoodbrand.com</h1>
-                                        </div>
-                                        <a href="https://ca.goodgoodbrand.com/ " class="project-btn" target="_blank">
-                                            <img src=" /images/icon.svg" alt="Button" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-
+                       
 
                             <div data-aos="zoom-in">
                                 <div class="project-item p-4 shadow-box">
@@ -102,20 +88,7 @@ export const Work = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div data-aos="zoom-in">
-                                <div class="project-item p-4 shadow-box">
-
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="project-info">
-                                            <p>SHOPIFY</p>
-                                            <h1>8000kicks.com</h1>
-                                        </div>
-                                        <a href="https://www.8000kicks.com/" class="project-btn" target="_blank">
-                                            <img src=" /images/icon.svg" alt="Button" />
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
+                        
                             <div data-aos="zoom-in">
                                 <div class="project-item p-4 shadow-box">
 
@@ -150,9 +123,9 @@ export const Work = () => {
                                     <div class="d-flex align-items-center justify-content-between">
                                         <div class="project-info">
                                             <p>SHOPIFY</p>
-                                            <h1>tellius.com</h1>
+                                            <h1>aldique.com</h1>
                                         </div>
-                                        <a href="https://www.tellius.com/" class="project-btn" target="_blank">
+                                        <a href="https://www.aldique.com/" class="project-btn" target="_blank">
                                             <img src=" /images/icon.svg" alt="Button" />
                                         </a>
                                     </div>
