@@ -365,9 +365,9 @@ export const Work = () => {
                                         <div class="d-flex align-items-center p-2 justify-content-between">
                                             <div class="project-info">
                                                 <p>WORDPRESS</p>
-                                                <h1>thereset.club</h1>
+                                                <h1>4seasontravels.com</h1>
                                             </div>
-                                            <a href="https://thereset.club/" class="project-btn" target="_blank">
+                                            <a href="http://4seasontravels.com/" class="project-btn" target="_blank">
                                                 <img src=" /images/icon.svg" alt="Button" />
                                             </a>
                                         </div>
@@ -390,21 +390,7 @@ export const Work = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div data-aos="zoom-in" class="flex-1">
-                                    <div class="project-item shadow-box">
-
-                                        <div class="d-flex align-items-center p-2 justify-content-between">
-                                            <div class="project-info">
-                                                <p>WORDPRESS</p>
-                                                <h1>classe365.com</h1>
-                                            </div>
-                                            <a href="https://classe365.com/" class="project-btn" target="_blank">
-                                                <img src=" /images/icon.svg" alt="Button" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                                
 
                             <div class="d-grid align-items-start gap-24">
                                 <div data-aos="zoom-in" class="flex-1">
@@ -421,21 +407,7 @@ export const Work = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div data-aos="zoom-in" class="flex-1">
-                                    <div class="project-item shadow-box">
-
-                                        <div class="d-flex align-items-center p-2 justify-content-between">
-                                            <div class="project-info">
-                                                <p>WORDPRESS</p>
-                                                <h1>elitesport.soccer</h1>
-                                            </div>
-                                            <a href="https://elitesport.soccer/" class="project-btn" target="_blank">
-                                                <img src=" /images/icon.svg" alt="Button" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                                
 
                             <div class="d-grid align-items-start gap-24">
 
