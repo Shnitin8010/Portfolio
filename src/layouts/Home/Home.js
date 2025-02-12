@@ -72,7 +72,7 @@ export const Home = () => {
                                     <img src="/images/me.png" alt="About Me" />
                                 </div>
                                 <div class="infos">
-                                    <h4>A WEB & SHOPIFY DEV.</h4>
+                                    <h4>Shopify Developer.</h4>
                                     <h1>Nitin Sharma</h1>
                                     <p>Just Loving to work as Developer.</p>
                                     <a href="/about" class="about-btn">
