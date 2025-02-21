@@ -55,3 +55,15 @@
     font-weight: var(--fontWeightBold);
   }
 }
+
+@media only screen and (max-width: 550px) {
+.heading {
+  line-height: var(--lineHeightTitle);
+  color: var(--colorTextTitle);
+
+  &[data-level='0'] {
+    letter-spacing: -0.05em;
+    font-size: 35px;
+  }
+}
+}

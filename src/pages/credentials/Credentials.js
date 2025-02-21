@@ -40,116 +40,129 @@ export const Credentials = () => {
                         </div>
 
                         <div class="credential-content flex-1">
-                            <div class="credential-about" data-aos="zoom-in">
-                                <h2>About Me</h2>
-                                <p>Welcome to my portfolio! I am a skilled and versatile developer with 1.5 years of experience in creating powerful and user-friendly websites and e-commerce platforms using WordPress and Shopify. Additionally, I am proficient in Next.js and React UI development, enabling me to build interactive and dynamic user interfaces. As a bonus, I possess graphic design skills, adding a creative touch to my projects. Moreover, my knowledge of digital marketing ensures that the websites I create are not only visually appealing but also optimized for better online visibility and engagement.</p>
-                            </div>
-
-                            <div class="credential-edc-exp credential-experience">
-                                <h2 data-aos="fade-up">Experience</h2>
-                                <div class="credential-edc-exp-item" data-aos="zoom-in">
-                                    <h4>Jan 2022- June 2022 (Paid Internship) </h4>
-                                    <h3 style={{ color: '#17a2b8' }}>Kantech Designer and Printers</h3>
-                                    <h5>Graphic Designer</h5>
-                                </div>
-                                <div class="credential-edc-exp-item" data-aos="zoom-in">
-                                    <h4>August 2022 - Present</h4>
-                                    <h3 style={{ color: '#17a2b8' }}>Epic Web Techno</h3>
-                                    <h5>Website Designer and Developer</h5>
-                                </div>
-                            </div>
-
-                            <div class="credential-edc-exp credential-education">
-                                <h2 data-aos="fade-up">Education</h2>
-                                <div class="credential-edc-exp-item" data-aos="zoom-in">
-                                    <h4>2021 - 2024</h4>
-                                    <h3 style={{ color: '#17a2b8' }}>B.Sc ( Information Technology)</h3>
-                                    <h5>Avviare Educational Hub</h5>
-                                </div>
-                                <div class="credential-edc-exp-item" data-aos="zoom-in">
-                                    <h4>May 2021 - Dec 2022</h4>
-                                    <h3 style={{ color: '#17a2b8' }}>Diploma in Graphic , Web & Digital Marketing</h3>
-                                    <h5>National Institute of Professional Studies</h5>
-                                </div>
-                            </div>
-
                             <div class="skills-wrap">
-                                <h1 data-aos="fade-up"> Web Skills</h1>
+                                <h1 data-aos="fade-up">Skills</h1>
                                 <div class="d-grid skill-items gap-24  ">
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Wordpress</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify Designing & Development</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Shopify</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify Liquid</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >HTML5 & Bootstrap</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify CLI</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >CSS</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify Checkout UI</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >JavaScript</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify Functions</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >REACT UI</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify API</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Next UI</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify Theme Development</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Django UI</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Shopify App Development</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Square Space</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>JavaScript</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >WebFlow</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>React.js</h2>
                                     </div>
-
-
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>Next.js</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>React Native</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>Node.js</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>GraphQLAPI</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>RestAPI</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>WordPress</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>HTML5 & Bootstrap</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}>CSS</h2>
+                                    </div>
                                 </div>
                             </div>
 
                             <div class="skills-wrap">
-                                <h2 data-aos="fade-up"> Graphic Skills</h2>
+                                <h2 data-aos="fade-up">Graphic Skills</h2>
                                 <div class="d-grid skill-items gap-24 flex-wrap">
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >PhotoShop</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>XD/Figma</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Corel Draw</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Adobe Photoshop</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Canva</h2>
+                                        <h2 style={{ color: '#17a2b8' }}>Canva</h2>
                                     </div>
-                                    <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Illustrator</h2>
-                                    </div>
-
                                 </div>
                             </div>
-
                             <div class="skills-wrap">
                                 <h2 data-aos="fade-up"> Digital Marketing Skills</h2>
                                 <div class="d-grid skill-items gap-24 flex-wrap">
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >SMM</h2>
+                                        <h2 style={{ color: '#17a2b8' }}  >Technical Audit </h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >SEO </h2>
+                                        <h2 style={{ color: '#17a2b8' }}  >Technical Issue Fixes</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >H1 FIXES</h2>
+                                        <h2 style={{ color: '#17a2b8' }}  >Seo Friendly Website</h2>
                                     </div>
                                     <div class="skill-item" data-aos="zoom-in">
-                                        <h2 style={{ color: '#17a2b8' }}  >Technical Issues</h2>
+                                        <h2 style={{ color: '#17a2b8' }}  >OG, Meta and JSON LD Schema </h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skills-wrap">
+                                <h2 data-aos="fade-up">Servers & Hositng</h2>
+                                <div class="d-grid skill-items gap-24 flex-wrap">
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >Hostinger, Hostgator, Bluehost, Kinsta </h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >Vercel, Heroku, Netlify</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >AWS ( Basics )</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >GCP and Azure ( Basics )</h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="skills-wrap">
+                                <h2 data-aos="fade-up">Other Skills</h2>
+                                <div class="d-grid skill-items gap-24 flex-wrap">
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >Project Cordination</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >Project Lead & Cordination</h2>
+                                    </div>
+                                    <div class="skill-item" data-aos="zoom-in">
+                                        <h2 style={{ color: '#17a2b8' }}  >Team Lead</h2>
                                     </div>
 
                                 </div>
                             </div>
-
-
                         </div>
                     </div>
                 </div>

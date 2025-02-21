@@ -4,7 +4,7 @@ import { Intro } from 'layouts/Home/Intro';
 import { useEffect, useRef, useState } from 'react';
 import styles from './Home.module.css';
 
-const disciplines = ['Developer', 'Shopify Dev', 'Wordpress Dev', 'Next UI/UX', 'React UI/UX', 'Python Django UI/UX', 'Bootstrap',];
+const disciplines = ['Designing', 'Development', 'Liquid', 'CLI', 'API', 'Metafields', 'GraphQL', 'Polaris', 'Webhooks', 'Checkout UI', 'Discounts', 'Functions', 'Theme Development', 'App Development', 'Lead', 'Scripts',];
 
 export const Home = () => {
     const [visibleSections, setVisibleSections] = useState([]);
@@ -51,8 +51,8 @@ export const Home = () => {
     return (
         <div className={styles.home}>
             <Meta
-                title="Designer + Developer"
-                description="Design portfolio of Nitin Sharma."
+                title="Shopify Developer + Designer"
+                description="Experienced Shopify Developer specializing in Theme Development, App Development, Liquid, API integrations, Checkout UI, Discounts, and Custom Functions. Expert in Shopify CLI, GraphQL, Metafields, and Webhooks, delivering high-performance eCommerce solutions. Explore my work and let's build something amazing!"
             />
             <Intro
                 id="intro"
@@ -72,9 +72,9 @@ export const Home = () => {
                                     <img src="/images/me.png" alt="About Me" />
                                 </div>
                                 <div class="infos">
-                                    <h4>Shopify Developer.</h4>
+                                    <h4>Shopify Expert & Dev.</h4>
                                     <h1>Nitin Sharma</h1>
-                                    <p>Just Loving to work as Developer.</p>
+                                    <p>Passionate about building seamless, high-performance Shopify solutions.</p>
                                     <a href="/about" class="about-btn">
                                         <img src=" images/icon.svg" alt="Button" />
                                     </a>
@@ -88,24 +88,30 @@ export const Home = () => {
                                     <div class="banner shadow-box">
                                         <div class="marquee">
                                             <div>
-                                                <span> <b>hootyballoo.com</b> <img src=" images/star1.svg" alt="Star" />
-                                                    <b>elementssupply.com</b>
+                                                <span>
+                                                    <b>layers.shop</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    <b>italiving.de</b>
+                                                    <b>peping.in</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                     <b>rousefit.com</b>
+                                                    <b>swah.co.in</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                     <b>manonsimard-boutique.com</b>
+                                                    <b>ultimateyou.co.in</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                    <b>herronapparel.com</b>
+                                                    <b>mivi.in</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                    <b>manonsimard-boutique.com</b>
+                                                    <b>herronapparel.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                    <b>paolopanini.com</b>
+                                                    <b>lakmeindia.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                    <b>starlitmotors.co.uk</b>
+                                                    <b>wforwoman.com</b>
                                                     <img src=" images/star1.svg" alt="Star" />
-                                                    
+                                                    <b>iplanet.one</b>
+                                                    <img src=" images/star1.svg" alt="Star" />
+                                                    <b>layers.shop</b>
+                                                    <img src=" images/star1.svg" alt="Star" />
+                                                    <b>peping.in</b>
+                                                    <img src=" images/star1.svg" alt="Star" />
+                                                    <b>swah.co.in</b>
 
                                                 </span>
                                             </div>
@@ -167,14 +173,14 @@ export const Home = () => {
                                 <img src=" images/bg1.png" alt="BG" class="bg-img" />
                                 <div class="clients d-flex align-items-start gap-24 justify-content-center">
                                     <div class="client-item">
-                                        <h1>2.5 +</h1>
-                                        <p>Years <br />Experience</p>
+                                        <h1>3.2+</h1>
+                                        <p>Years of<br /> Experience</p>
                                     </div>
 
 
 
                                     <div class="client-item">
-                                        <h1>54 +</h1>
+                                        <h1>108+</h1>
                                         <p>Total <br />Projects</p>
                                     </div>
                                 </div>
@@ -184,10 +190,13 @@ export const Home = () => {
                         <div class="col-md-6" data-aos="zoom-in">
 
                             <div class="about-contact-box info-box shadow-box">
-                                <a class="overlay-link" href="contact"></a>
+                                <a class="overlay-link" href="mailto:shnitin8010@gmail.com"></a>
                                 <img src=" images/bg1.png" alt="BG" class="bg-img" />
                                 <img src=" images/icon2.png" alt="Icon" class="star-icon" />
-                                <h1>Let's <br />work <span>together.</span></h1>
+                                <h1>Hit My <span>Inbox.</span></h1>
+                                <div class="client-item">
+                                    <p>Let’s Build Something Amazing</p>
+                                </div>
                                 <h5 className='mt-2'>shnitin8010@gmail.com</h5>
                                 <a href="contact" class="about-btn">
                                     <img src=" images/icon.svg" alt="Button" />

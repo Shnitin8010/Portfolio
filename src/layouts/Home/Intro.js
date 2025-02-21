@@ -1,4 +1,4 @@
- import { DecoderText } from 'components/DecoderText';
+import { DecoderText } from 'components/DecoderText';
 import { Heading } from 'components/Heading';
 import { Section } from 'components/Section';
 import { useTheme } from 'components/ThemeProvider';
@@ -8,7 +8,7 @@ import { VisuallyHidden } from 'components/VisuallyHidden';
 import { AnimatePresence } from 'framer-motion';
 import { useInterval, usePrevious, useScrollToHash } from 'hooks';
 import dynamic from 'next/dynamic';
- import { Fragment, useEffect, useState } from 'react';
+import { Fragment, useEffect, useState } from 'react';
 import { cssProps } from 'utils/style';
 import styles from './Intro.module.css';
 
@@ -67,7 +67,7 @@ export function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...r
               </h1>
               <Heading level={0} as="h2" className={styles.title}>
                 <VisuallyHidden className={styles.label}>
-                  {`Designer + ${introLabel}`}
+                  {`Shopify + ${introLabel}`}
                 </VisuallyHidden>
                 <span aria-hidden className={styles.row}>
                   <span
@@ -75,7 +75,7 @@ export function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...r
                     data-status={status}
                     style={cssProps({ delay: tokens.base.durationXS })}
                   >
-                    Designer
+                    Shopify
                   </span>
                   <span className={styles.line} data-status={status} />
                 </span>
@@ -105,8 +105,8 @@ export function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...r
                 </div>
               </Heading>
             </header>
-            
-             
+
+
           </Fragment>
         )}
       </Transition>

@@ -206,7 +206,7 @@
   content: '';
   height: 2px;
   background: rgb(var(--rgbText) / 0.3);
-  width: 120%;
+  width: 50%;
   display: flex;
   margin-left: 20px;
   animation-duration: 0.8s;

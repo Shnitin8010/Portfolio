@@ -7,11 +7,6 @@ import { useRef, useState } from 'react';
 export const About = () => {
     const errorRef = useRef();
 
-
-
-
-
-
     return (
         <div style={{ paddingLeft: '12%' }}>
             <Meta
@@ -25,7 +20,7 @@ export const About = () => {
                             <div class="about-image-box shadow-box">
                                 <img src="/images/bg1.png" alt="BG" class="bg-img" />
                                 <div class="image-inner">
-                                    <img src="/images/me2.png" alt="About Me" />
+                                    <img src="/images/me.png" alt="About Me" />
                                 </div>
                             </div>
                         </div>
@@ -35,8 +30,8 @@ export const About = () => {
                             <div class="about-details-inner shadow-box">
                                 <img src=" /images/icon2.png" alt="Star" />
                                 <h1>Nitin Sharma</h1>
-                                <p>Hello, my name is Nitin Sharma. I currently reside in Chipiyana, Greater Noida. Professionally, I am working at Epic Web Techno, where I hold the role of a Shopify and WordPress developer. I am passionate about web development and have expertise in designing user interfaces using technologies like Next.js and React.</p>
-
+                                <p>A Shopify Engineer from Uttar Pradesh, India, with 3.5+ years of experience in Shopify design and development.</p>
+                                <p>Currently, I’m shaping next-level eCommerce at ENS Enterprises, India’s top-ranked Shopify Plus Partner company. Here, I not only develop cutting-edge Shopify solutions but also mentoring a squad of junior developers while managing direct client interactions.</p>
                             </div>
 
                         </div>
@@ -45,10 +40,10 @@ export const About = () => {
 
                     <div class="about-details mt-4" data-aos="zoom-in">
                         <div class=" p-5 shadow-box">
-                            <p>My main focus is on seeking opportunities that align with my skills and interests while also benefiting the organization I will be working with. I believe in contributing my knowledge and expertise to create meaningful and impactful projects. I am eager to grow as a developer and continue expanding my skill set to stay up-to-date with the latest trends and technologies in the industry.</p>
-                            <br /> <p>I am committed to delivering high-quality work, meeting deadlines, and collaborating effectively with teams to achieve common goals. As a developer, I value continuous learning and always strive to find innovative solutions to challenges that arise during the development process.</p>
+                            <p>A Shopify Engineer with a strong foundation in Shopify design and development, backed by a BSc in IT and a Diploma in Graphic, Web, and Digital Marketing. My journey in web development started with Shopify and WordPress, but my passion for coding pushed me to explore deeper into React, Next.js, Django, PHP, and UI/UX design tools like Figma, Photoshop, and Illustrator.</p>
+                            <br /> <p>However, as I evolved in my career, I realized that Shopify development is my true calling. The challenge, the demand, and the lack of structured learning resources made it an exciting field to master. Self-learning and persistence led me to gain expertise in Shopify's core functionalities, including Theme Development, Custom App Development, Checkout UI, API integrations, and performance optimization.</p>
                             <br /> <p>In my free time, I enjoy staying up-to-date with the latest developments in the tech world and exploring new coding techniques to enhance my abilities. I am a team player and believe in fostering a positive and collaborative work environment.</p>
-                            <br /> <p>I am open to new opportunities that allow me to apply my expertise in web development and UI design, and I am excited to contribute my skills to the success of both my personal growth and the organization I will be a part of.</p>
+                            <br /> <p>I started my professional journey at Epic Web Techno, where I gained valuable experience and mentorship. After 1.4 years, circumstances led me to EG Logics, but I soon realized I needed more challenging projects to fuel my growth. That’s when I took a leap and joined ENS Enterprises—India’s #1 Shopify Plus Partner company—where I now work as a Shopify Engineer, leading a team of 4-5 junior developers, handling complex projects, and directly collaborating with clients.</p>
 
                         </div>
 
@@ -68,9 +63,19 @@ export const About = () => {
                                         <p class="type">Graphic Designer</p>
                                     </li>
                                     <li>
-                                        <p class="date">August 2022 - Present</p>
+                                        <p class="date">August 2022 - Sep 2023</p>
                                         <h2>Epic Web Techno </h2>
-                                        <p class="type">Website Designer and Developer</p>
+                                        <p class="type">Shopify and Wordpress Developer</p>
+                                    </li>
+                                    <li>
+                                        <p class="date">Sep 2023 - June 2024</p>
+                                        <h2>EG Logics Pvt. Ltd.</h2>
+                                        <p class="type">Shopify Developer</p>
+                                    </li>
+                                    <li>
+                                        <p class="date">June 2024 - Present</p>
+                                        <h2>ENS Enterprises Pvt. Ltd.</h2>
+                                        <p class="type">Shopify Engineer ( DevOps Team )</p>
                                     </li>
                                 </ul>
                             </div>
@@ -91,6 +96,26 @@ export const About = () => {
                                         <h2>Diploma in Graphic , Web & Digital Marketing</h2>
                                         <p class="type">National Institute of Professional Studies</p>
                                     </li>
+                                    <li>
+                                        <p class="date">Sep 2024 - Sep 2025</p>
+                                        <h2>Certification on Shopify Development Fundamentals Assessment</h2>
+                                        <p class="type">Shopify Academy</p>
+                                    </li>
+                                    <li>
+                                        <p class="date">Sep 2024 - Sep 2025</p>
+                                        <h2>Certification on Shopify Development Fundamentals Assessment</h2>
+                                        <p class="type">Shopify Academy</p>
+                                    </li>
+                                    <li>
+                                        <p class="date">Sep 2024 - Present</p>
+                                        <h2>Full Stack Development ( Exploring Node, React, Next, Postgrey, MongoDB, GraphQLAPI, RestAPI, Express.js, React Native, GCP, AWS)</h2>
+                                        <p class="type">Self Learning</p>
+                                    </li>
+                                    <li>
+                                        <p class="date">June 2025 - June 2027</p>
+                                        <h2>Masters in B.sc ( I.T )</h2>
+                                        <p class="type">Amity University</p>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -103,7 +128,7 @@ export const About = () => {
 
                                 <div data-aos="zoom-in" class="flex-1">
                                     <div class="about-contact-box info-box shadow-box">
-                                        <a class="overlay-link" href="contact"></a>
+                                        <a class="overlay-link" href="mailto:shnitin8010@gmail.com"></a>
                                         <img src=" /images/bg1.png" alt="BG" class="bg-img" />
                                         <img src=" /images/icon2.png" alt="Icon" class="star-icon" />
                                         <h2>Let's <br />work <span>together.</span></h2>

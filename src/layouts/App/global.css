@@ -1036,6 +1036,40 @@ ol {
 .credential-area .skills-wrap .skill-item {
   width: 50%;
 }
+
+@media only screen and (max-width: 550px) {
+  .credential-area .skills-wrap .skill-items {
+    grid-template-columns: 1fr;
+  }
+  .credential-area .skills-wrap .skill-item {
+    width: 100%;
+  }
+  .credential-area .skills-wrap h2 {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.about-area .about-details .about-details-inner {
+  padding: 15px 10px 40px 10px;
+  position: relative;
+}
+.about-details .shadow-box {
+  padding: 14px !important;
+}
+.about-edc-exp.about-experience.shadow-box, .about-edc-exp.about-experience.shadow-box,.about-area .about-edc-exp {
+  padding: 14px !important;
+}  
+section.about-area {
+  padding-left: 40px;
+}
+.about-me-box.shadow-box {
+  padding: 10px;
+}
+.Section_section__FuI7l {
+  padding-left: calc(var(--space4XL)* 0.7) !important;
+}
+
+}
+
 .credential-area .skills-wrap .skill-item .percent {
   color: #BCBCBC;
   opacity: 0.6;
